@@ -1,0 +1,1 @@
+# csharp-kanjidic2.dll
