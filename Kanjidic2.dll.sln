@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanjidic2", "Kanjidic2\Kanjidic2.csproj", "{6AE60381-BB0A-4597-8E52-963991AD6DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanjidic2.Example", "Kanjidic2.Example\Kanjidic2.Example.csproj", "{C764DAAE-98FE-4BBE-BE88-6040C4C19749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE60381-BB0A-4597-8E52-963991AD6DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE60381-BB0A-4597-8E52-963991AD6DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE60381-BB0A-4597-8E52-963991AD6DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE60381-BB0A-4597-8E52-963991AD6DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C764DAAE-98FE-4BBE-BE88-6040C4C19749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C764DAAE-98FE-4BBE-BE88-6040C4C19749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C764DAAE-98FE-4BBE-BE88-6040C4C19749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C764DAAE-98FE-4BBE-BE88-6040C4C19749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3547A5DC-D334-4C11-8EF9-EF8D85FC224F}
+	EndGlobalSection
+EndGlobal
